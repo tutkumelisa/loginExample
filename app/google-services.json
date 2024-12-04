@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864153009987",
+    "project_id": "loginapp-bdccb",
+    "storage_bucket": "loginapp-bdccb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864153009987:android:79d6cc0c354edc53a179f6",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMdo4ZDWJTNG8knCujCe5PMuAZ8uP931c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
